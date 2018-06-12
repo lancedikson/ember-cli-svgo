@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="223px" height="166px" viewBox="0 0 223 166" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>Colored_XL_OOS-hide_223x166</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Colored_XL_OOS-hide_223x166" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Colored/XL/OOS-hide/223x166">
+            <g id="Base/XL/OOS-hide" transform="translate(75.000000, 35.000000)">
+                <g>
+                    <path d="M6,60 L52,60 L52,12 L4,12 L4,58 C4,59.1045695 4.8954305,60 6,60 Z" id="Fill-1" fill="#DBE2E4"></path>
+                    <polygon id="Fill-3" fill="#7474AD" points="4 28 52 28 52 12 4 12"></polygon>
+                    <path d="M27,40.5857864 L32.6568542,34.9289322 L34.0710678,36.3431458 L28.4142136,42 L34.0710678,47.6568542 L32.6568542,49.0710678 L27,43.4142136 L21.3431458,49.0710678 L19.9289322,47.6568542 L25.5857864,42 L19.9289322,36.3431458 L21.3431458,34.9289322 L27,40.5857864 Z" id="Combined-Shape" fill="#7474AD"></path>
+                    <polygon id="Fill-2" fill="#DBE2E4" points="4.0003 12.0003 0.0003 24.0003 47.9993 24.0003 52.0003 12.0003"></polygon>
+                    <path d="M52,60 L68,60 C69.1045695,60 70,59.1045695 70,58 L70,12 L52,12 L52,60 Z" id="Fill-3" fill="#7474AD"></path>
+                    <polygon id="Fill-4" fill="#DBE2E4" points="52 12.0003 58 24.0003 76 24.0003 70 12.0003"></polygon>
+                    <g id="Group-13" transform="translate(23.000000, 0.000000)" fill="#DBE2E4">
+                        <polygon id="Fill-9" points="13 6 15 6 15 0 13 0"></polygon>
+                        <polygon id="Fill-11" points="3.18133616 6 0 1.02405042 1.81866384 0 5 4.97594958"></polygon>
+                        <polygon id="Fill-12" points="24.8186638 6 23 4.97594958 26.1813362 0 28 1.02405042"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
