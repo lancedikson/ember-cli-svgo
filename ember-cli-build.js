@@ -4,7 +4,26 @@ const EmberAddon = require('ember-cli/lib/broccoli/ember-addon');
 
 module.exports = function(defaults) {
   let app = new EmberAddon(defaults, {
-    // Add options here
+    svgo: {
+      files: [
+        {
+          sourceDirs: 'tests/dummy/app/assets/icons/mono',
+          outputPath: 'assets/icons/mono',
+          svgoConfig: {
+            plugins: [{
+              removeAttrs: {
+                attrs: '(stroke|fill)'
+              }
+            }]
+          }
+        },
+        {
+          sourceDirs: 'tests/dummy/app/assets/icons/colored',
+          outputPath: 'assets/icons/colored',
+          svgoConfig: {}
+        },
+      ],
+    }
   });
 
   /*
