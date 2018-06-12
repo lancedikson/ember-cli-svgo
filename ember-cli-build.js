@@ -23,6 +23,15 @@ module.exports = function(defaults) {
           svgoConfig: {}
         },
       ],
+      excludeSourceFiles: true,
+    },
+    svgstore: {
+      files: [
+        {
+          sourceDirs: 'assets/icons',
+          outputFile: 'assets/icons.svg'
+        }
+      ]
     }
   });
 
